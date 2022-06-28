@@ -398,8 +398,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('⚚ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 ᴜᴘᴅᴀᴛᴇ 💠', url='https://t.me/mh_world'),
-            InlineKeyboardButton('💠 ᴍᴏᴠɪᴇs 💠', url='https://t.me/+ruyzQqWCJWQ5NzZl')
+            InlineKeyboardButton('💠 ᴜᴘᴅᴀᴛᴇ 💠', url='https://t.me/cv_updatezz'),
+            InlineKeyboardButton('💠 ᴍᴏᴠɪᴇs 💠', url='https://t.me/cv_group1')
             ],[      
             InlineKeyboardButton('♻️ ʜᴇʟᴘ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ᴀʙᴏᴜᴛ ♻️', callback_data='about')
@@ -430,7 +430,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons= [[
-            InlineKeyboardButton('♥️ SԾUᏒCΞ ♥️', url='https://github.com/TG-V4MP1R3/Alexa-V2')
+            InlineKeyboardButton('♥️ SԾUᏒCΞ ♥️', url='https://t.me/c/1795760131/3')
             ],[
             InlineKeyboardButton('🏠 𝗛𝗼𝗺𝗲 🏠', callback_data='start'),
             InlineKeyboardButton('🔐 𝗖𝗹𝗼𝘀𝗲 🔐', callback_data='close_data')
