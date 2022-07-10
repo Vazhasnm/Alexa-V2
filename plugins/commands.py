@@ -36,8 +36,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 ᴜᴘᴅᴀᴛᴇ 💠', url='https://t.me/cv_updatezz'),
-            InlineKeyboardButton('💠 ᴍᴏᴠɪᴇs 💠', url='https://t.me/cv_group1')
+            InlineKeyboardButton('💠 ᴜᴘᴅᴀᴛᴇ 💠', url='https://t.me/channellink23'),
+            InlineKeyboardButton('💠 ᴍᴏᴠɪᴇs 💠', url='https://t.me/+DU_mB4a0uD85YjI1')
             ],[      
             InlineKeyboardButton('♻️ ʜᴇʟᴘ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ᴀʙᴏᴜᴛ ♻️', callback_data='about')
@@ -83,8 +83,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('💠 ᴜᴘᴅᴀᴛᴇ 💠', url='https://t.me/cv_updatezz'),
-            InlineKeyboardButton('💠 ᴍᴏᴠɪᴇs 💠', url='https://t.me/cv_group1')
+            InlineKeyboardButton('💠 ᴜᴘᴅᴀᴛᴇ 💠', url='https://t.me/channellink23'),
+            InlineKeyboardButton('💠 ᴍᴏᴠɪᴇs 💠', url='https://t.me/+DU_mB4a0uD85YjI1')
             ],[      
             InlineKeyboardButton('♻️ ʜᴇʟᴘ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ᴀʙᴏᴜᴛ ♻️', callback_data='about')
