@@ -6,6 +6,7 @@ marshmallow==3.12.2
 umongo==3.0.0
 requests
 bs4
+pyrogram==1.4.16
 IMDbPY==6.7
 speedtest-cli
 carbonnow==0.0.1
